@@ -1,47 +1,12 @@
-# Python Basics for Beginners
+# Python Learning Phase
 
-A beginner-friendly Python learning repository covering the core fundamentals of Python programming with simple examples and explanations.
+A beginner-to-advanced Python learning repository designed to build a strong foundation for Machine Learning and Deep Learning.
 
 ## Topics Covered
 
-- Printing Output
-- Comments
-- Indentation
-- Variables
-- Data Types
-- Type Casting
-- type() Function
-- Case Sensitivity
-- Multiple Assignment
-- Unpacking Variables
-- String Concatenation
-- Global Variables
-- Local Variables
-- global Keyword
-
-## Requirements
-
-- Python 3.x
-
-## Run
-
-```bash
-python python_basics.py
-```
-
-## Output
-
-```
-Hello, World!
-Five is greater than two.
-Hello World
-Python is Awesome
-Excellent
-```
-
-## Learning Level
-
-
-## Author
-
-Danyal
+✅ Python Basics
+✅ Variables & Data Types
+✅ Operators
+✅ Basic Programs
+✅ Conditional Statements
+✅ Lists
