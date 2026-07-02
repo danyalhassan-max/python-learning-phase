@@ -4,7 +4,7 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 
 ---
 
-## 📚 Topics Covered
+# 📚 Topics Covered
 
 - ✅ Python Basics
 - ✅ Variables & Data Types
@@ -12,13 +12,13 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Basic Programs
 - ✅ Conditional Statements
 - ✅ Lists
-- ✅ Student Marks Management System
+- ✅ Tuples
 
 ---
 
-## 💻 Projects
+# 💻 Projects
 
-### 🛒 Shopping Cart Management System
+## 🛒 Shopping Cart Management System
 
 A beginner-friendly console application developed using Python Lists.
 
@@ -36,25 +36,58 @@ A beginner-friendly console application developed using Python Lists.
 - append()
 - remove()
 - len()
-- if / elif / else
 - while loop
 - for loop
 - input()
-- in operator
+- if / elif / else
 
 ---
 
-## 🎯 Learning Goal
+## 🎓 Student Marks Management System
 
-This repository documents my Python learning journey from beginner concepts to Machine Learning and Deep Learning.
+A beginner-friendly console application developed using Python Lists.
 
-Upcoming topics include:
+### Features
 
+- Add Student Marks
+- View Marks
+- Highest Marks
+- Lowest Marks
+- Average Marks
+- Total Students
+- Remove Marks
+- Exit Program
 
-- ⏳ Tuples
+### Concepts Used
+
+- Python Lists
+- append()
+- remove()
+- len()
+- sum()
+- max()
+- min()
+- while loop
+- for loop
+- Type Casting
+- if / elif / else
+
+---
+
+# 🎯 Learning Roadmap
+
+## Completed
+
+- ✅ Python Basics
+- ✅ Lists
+- ✅ Tuples
+- ✅ Shopping Cart Project
+- ✅ Student Marks Management Project
+
+## Upcoming
+
 - ⏳ Sets
 - ⏳ Dictionaries
-- ⏳ Loops
 - ⏳ Functions
 - ⏳ File Handling
 - ⏳ Object-Oriented Programming (OOP)
@@ -66,6 +99,24 @@ Upcoming topics include:
 
 ---
 
-## 👨‍💻 Author
+# 📂 Repository Structure
+
+```text
+python-learning-phase/
+
+README.md
+
+python_basics.py
+lists.py
+tuples.py
+sets.py
+
+shopping_cart.py
+student_marks_management.py
+```
+
+---
+
+# 👨‍💻 Author
 
 **Danyal**
