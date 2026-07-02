@@ -12,6 +12,7 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Basic Programs
 - ✅ Conditional Statements
 - ✅ Lists
+- ✅ Student Marks Management System
 
 ---
 
@@ -49,7 +50,7 @@ This repository documents my Python learning journey from beginner concepts to M
 
 Upcoming topics include:
 
-- ⏳ Student Marks Management Project
+
 - ⏳ Tuples
 - ⏳ Sets
 - ⏳ Dictionaries
