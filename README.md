@@ -4,7 +4,7 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 
 ---
 
-# 📚 Topics Covered
+#  Topics Covered
 
 - ✅ Python Basics
 - ✅ Variables & Data Types
@@ -13,12 +13,13 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Conditional Statements
 - ✅ Lists
 - ✅ Tuples
+- ✅ Sets
 
 ---
 
-# 💻 Projects
+#  Projects
 
-## 🛒 Shopping Cart Management System
+##  Shopping Cart Management System
 
 A beginner-friendly console application developed using Python Lists.
 
@@ -43,7 +44,7 @@ A beginner-friendly console application developed using Python Lists.
 
 ---
 
-## 🎓 Student Marks Management System
+##  Student Marks Management System
 
 A beginner-friendly console application developed using Python Lists.
 
@@ -74,6 +75,32 @@ A beginner-friendly console application developed using Python Lists.
 
 ---
 
+##  Unique Student ID Management System
+
+A beginner-friendly console application developed using Python Sets.
+
+### Features
+
+- Add Student ID
+- View Student IDs
+- Remove Student ID
+- Count Student IDs
+- Exit Program
+
+### Concepts Used
+
+- Python Sets
+- add()
+- remove()
+- len()
+- in operator
+- while loop
+- for loop
+- input()
+- if / elif / else
+
+---
+
 # 🎯 Learning Roadmap
 
 ## Completed
@@ -81,25 +108,26 @@ A beginner-friendly console application developed using Python Lists.
 - ✅ Python Basics
 - ✅ Lists
 - ✅ Tuples
+- ✅ Sets
 - ✅ Shopping Cart Project
 - ✅ Student Marks Management Project
+- ✅ Unique Student ID Project
 
 ## Upcoming
 
-- ⏳ Sets
-- ⏳ Dictionaries
-- ⏳ Functions
-- ⏳ File Handling
-- ⏳ Object-Oriented Programming (OOP)
-- ⏳ NumPy
-- ⏳ Pandas
-- ⏳ Matplotlib
-- ⏳ Scikit-Learn
-- ⏳ TensorFlow / Keras
+-  Dictionaries
+-  Functions
+-  File Handling
+-  Object-Oriented Programming (OOP)
+-  NumPy
+-  Pandas
+-  Matplotlib
+-  Scikit-Learn
+-  TensorFlow / Keras
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 python-learning-phase/
@@ -113,10 +141,24 @@ sets.py
 
 shopping_cart.py
 student_marks_management.py
+unique_student_ids.py
 ```
 
 ---
 
-# 👨‍💻 Author
+#  Repository Goal
+
+This repository documents my Python learning journey from beginner concepts to advanced topics required for Machine Learning, Deep Learning, Data Science, and Software Development.
+
+Each topic includes:
+
+- Theory and examples
+- Hands-on practice
+- Mini projects
+- Clean, well-documented code
+
+---
+
+#  Author
 
 **Danyal**
