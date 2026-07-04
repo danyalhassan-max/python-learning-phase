@@ -9,17 +9,20 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Python Basics
 - ✅ Variables & Data Types
 - ✅ Operators
-- ✅ Basic Programs
+- ✅ Type Casting
+- ✅ Input / Output
 - ✅ Conditional Statements
+- ✅ Loops
 - ✅ Lists
 - ✅ Tuples
 - ✅ Sets
+- ✅ Dictionaries
 
 ---
 
 #  Projects
 
-##  Shopping Cart Management System
+## 🛒 Shopping Cart Management System
 
 A beginner-friendly console application developed using Python Lists.
 
@@ -101,29 +104,64 @@ A beginner-friendly console application developed using Python Sets.
 
 ---
 
-# 🎯 Learning Roadmap
+##  Student Record Management System
+
+A beginner-friendly console application developed using Python Dictionaries.
+
+### Features
+
+- Add Student
+- View Students
+- Search Student
+- Update Student Marks
+- Remove Student
+- Count Total Students
+- Exit Program
+
+### Concepts Used
+
+- Python Dictionaries
+- Lists of Dictionaries
+- CRUD Operations
+- append()
+- remove()
+- len()
+- break
+- while loop
+- for loop
+- if / elif / else
+- Dictionary Methods
+
+---
+
+#  Learning Roadmap
 
 ## Completed
 
 - ✅ Python Basics
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Conditional Statements
 - ✅ Lists
 - ✅ Tuples
 - ✅ Sets
-- ✅ Shopping Cart Project
-- ✅ Student Marks Management Project
-- ✅ Unique Student ID Project
+- ✅ Dictionaries
+- ✅ Shopping Cart Management System
+- ✅ Student Marks Management System
+- ✅ Unique Student ID Management System
+- ✅ Student Record Management System
 
 ## Upcoming
 
--  Dictionaries
--  Functions
--  File Handling
--  Object-Oriented Programming (OOP)
--  NumPy
--  Pandas
--  Matplotlib
--  Scikit-Learn
--  TensorFlow / Keras
+- ⏳ Library Management System
+- ⏳ Functions
+- ⏳ File Handling
+- ⏳ Object-Oriented Programming (OOP)
+- ⏳ NumPy
+- ⏳ Pandas
+- ⏳ Matplotlib
+- ⏳ Scikit-Learn
+- ⏳ TensorFlow / Keras
 
 ---
 
@@ -138,24 +176,42 @@ python_basics.py
 lists.py
 tuples.py
 sets.py
+dictionaries.py
 
 shopping_cart.py
 student_marks_management.py
 unique_student_ids.py
+student_record_management.py
 ```
 
 ---
 
 #  Repository Goal
 
-This repository documents my Python learning journey from beginner concepts to advanced topics required for Machine Learning, Deep Learning, Data Science, and Software Development.
+This repository documents my Python learning journey from beginner concepts to advanced topics required for Machine Learning, Deep Learning, and Data Science.
 
 Each topic includes:
 
 - Theory and examples
-- Hands-on practice
+- Hands-on coding practice
 - Mini projects
-- Clean, well-documented code
+- Clean and well-commented code
+- GitHub-ready implementations
+
+---
+
+#  Future Goal
+
+After completing Python fundamentals, this repository will continue with:
+
+- NumPy
+- Pandas
+- Data Visualization
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Kaggle Projects
+- Diabetic Retinopathy Detection Project
 
 ---
 
