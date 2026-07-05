@@ -150,10 +150,11 @@ A beginner-friendly console application developed using Python Dictionaries.
 - ✅ Student Marks Management System
 - ✅ Unique Student ID Management System
 - ✅ Student Record Management System
+- ✅ Library Management System
 
 ## Upcoming
 
-- ⏳ Library Management System
+
 - ⏳ Functions
 - ⏳ File Handling
 - ⏳ Object-Oriented Programming (OOP)
