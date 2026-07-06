@@ -17,6 +17,7 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Tuples
 - ✅ Sets
 - ✅ Dictionaries
+- ✅ Function
 
 ---
 
@@ -150,12 +151,12 @@ A beginner-friendly console application developed using Python Dictionaries.
 - ✅ Student Marks Management System
 - ✅ Unique Student ID Management System
 - ✅ Student Record Management System
-- ✅ Library Management System
+- ✅ Library Management System(using Dictionary and function)
 
 ## Upcoming
 
 
-- ⏳ Functions
+
 - ⏳ File Handling
 - ⏳ Object-Oriented Programming (OOP)
 - ⏳ NumPy
