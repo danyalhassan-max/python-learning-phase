@@ -1,10 +1,10 @@
 # Python Learning Phase
 
-A beginner-to-advanced Python learning repository designed to build a strong foundation for Machine Learning, Deep Learning, and Data Science.
+A beginner-to-advanced Python learning repository designed to build a strong foundation for Machine Learning, Deep Learning, Data Science, and Artificial Intelligence.
 
 ---
 
-#  Topics Covered
+# 📚 Topics Covered
 
 - ✅ Python Basics
 - ✅ Variables & Data Types
@@ -17,11 +17,12 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Tuples
 - ✅ Sets
 - ✅ Dictionaries
-- ✅ Function
+- ✅ Functions
+- ✅ File Handling
 
 ---
 
-#  Projects
+# 🚀 Projects
 
 ## 🛒 Shopping Cart Management System
 
@@ -48,7 +49,7 @@ A beginner-friendly console application developed using Python Lists.
 
 ---
 
-##  Student Marks Management System
+## 🎓 Student Marks Management System
 
 A beginner-friendly console application developed using Python Lists.
 
@@ -79,7 +80,7 @@ A beginner-friendly console application developed using Python Lists.
 
 ---
 
-##  Unique Student ID Management System
+## 🆔 Unique Student ID Management System
 
 A beginner-friendly console application developed using Python Sets.
 
@@ -105,7 +106,7 @@ A beginner-friendly console application developed using Python Sets.
 
 ---
 
-##  Student Record Management System
+## 👨‍🎓 Student Record Management System
 
 A beginner-friendly console application developed using Python Dictionaries.
 
@@ -135,39 +136,108 @@ A beginner-friendly console application developed using Python Dictionaries.
 
 ---
 
-#  Learning Roadmap
+## 📚 Library Management System
+
+A beginner-friendly console application developed using Python Functions and Dictionaries.
+
+### Features
+
+- Add Book
+- View Books
+- Search Book
+- Update Book Quantity
+- Remove Book
+- Exit Program
+
+### Concepts Used
+
+- Python Functions
+- Python Dictionaries
+- Lists of Dictionaries
+- CRUD Operations
+- while loop
+- for loop
+- append()
+- remove()
+- break
+- User Input
+- Function Calling
+
+---
+
+## 📁 Student File Management System
+
+A beginner-friendly console application developed using Python File Handling.
+
+### Features
+
+- Add Student Record
+- View Student Records
+- Search Student by ID
+- Remove Student Record
+- Count Total Students
+- Exit Program
+
+### Concepts Used
+
+- Python File Handling
+- open()
+- with open()
+- Read Mode (`r`)
+- Write Mode (`w`)
+- Append Mode (`a`)
+- read()
+- readline()
+- readlines()
+- write()
+- File Paths
+- split()
+- strip()
+- Lists
+- Loops
+- Conditional Statements
+
+---
+
+# 🎯 Learning Roadmap
 
 ## Completed
 
 - ✅ Python Basics
 - ✅ Variables & Data Types
 - ✅ Operators
+- ✅ Type Casting
+- ✅ Input / Output
 - ✅ Conditional Statements
+- ✅ Loops
 - ✅ Lists
 - ✅ Tuples
 - ✅ Sets
 - ✅ Dictionaries
+- ✅ Functions
+- ✅ File Handling
 - ✅ Shopping Cart Management System
 - ✅ Student Marks Management System
 - ✅ Unique Student ID Management System
 - ✅ Student Record Management System
-- ✅ Library Management System(using Dictionary and function)
+- ✅ Library Management System
+- ✅ Student File Management System
 
 ## Upcoming
 
-
-
-- ⏳ File Handling
+- ⏳ Exception Handling
+- ⏳ Modules & Packages
 - ⏳ Object-Oriented Programming (OOP)
 - ⏳ NumPy
 - ⏳ Pandas
 - ⏳ Matplotlib
+- ⏳ Seaborn
 - ⏳ Scikit-Learn
 - ⏳ TensorFlow / Keras
 
 ---
 
-#  Repository Structure
+# 📂 Repository Structure
 
 ```text
 python-learning-phase/
@@ -179,22 +249,26 @@ lists.py
 tuples.py
 sets.py
 dictionaries.py
+functions.py
+file_handling.py
 
 shopping_cart.py
 student_marks_management.py
 unique_student_ids.py
 student_record_management.py
+library_management_system.py
+student_file_management.py
 ```
 
 ---
 
-#  Repository Goal
+# 🎯 Repository Goal
 
-This repository documents my Python learning journey from beginner concepts to advanced topics required for Machine Learning, Deep Learning, and Data Science.
+This repository documents my Python learning journey from beginner concepts to advanced topics required for Machine Learning, Deep Learning, Data Science, and Software Development.
 
 Each topic includes:
 
-- Theory and examples
+- Theory and explanations
 - Hands-on coding practice
 - Mini projects
 - Clean and well-commented code
@@ -202,9 +276,9 @@ Each topic includes:
 
 ---
 
-#  Future Goal
+# 🚀 Future Goal
 
-After completing Python fundamentals, this repository will continue with:
+After mastering Python fundamentals, this repository will continue with:
 
 - NumPy
 - Pandas
@@ -217,6 +291,6 @@ After completing Python fundamentals, this repository will continue with:
 
 ---
 
-#  Author
+# 👨‍💻 Author
 
 **Danyal**
