@@ -1,6 +1,6 @@
 # Python Learning Phase
 
-A beginner-to-advanced Python learning repository designed to build a strong foundation for Machine Learning, Deep Learning, Data Science, and Artificial Intelligence.
+A beginner-to-advanced Python learning repository designed to build a strong foundation for **Machine Learning**, **Deep Learning**, **Data Science**, **Artificial Intelligence**, and **Software Development**.
 
 ---
 
@@ -19,6 +19,7 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Dictionaries
 - ✅ Functions
 - ✅ File Handling
+- ✅ Exception Handling
 
 ---
 
@@ -199,9 +200,40 @@ A beginner-friendly console application developed using Python File Handling.
 
 ---
 
+## 🧮 Exception Handling Calculator
+
+A console-based calculator that demonstrates Python's exception handling features while performing arithmetic operations.
+
+### Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Handles Invalid Input
+- Prevents Division by Zero
+- Custom Exception for Negative Numbers
+- Exit Program
+
+### Concepts Used
+
+- try
+- except
+- else
+- finally
+- raise
+- ValueError
+- ZeroDivisionError
+- Custom Exceptions
+- while loop
+- Conditional Statements
+- User Input
+
+---
+
 # 🎯 Learning Roadmap
 
-## Completed
+## ✅ Completed
 
 - ✅ Python Basics
 - ✅ Variables & Data Types
@@ -216,24 +248,25 @@ A beginner-friendly console application developed using Python File Handling.
 - ✅ Dictionaries
 - ✅ Functions
 - ✅ File Handling
+- ✅ Exception Handling
 - ✅ Shopping Cart Management System
 - ✅ Student Marks Management System
 - ✅ Unique Student ID Management System
 - ✅ Student Record Management System
 - ✅ Library Management System
 - ✅ Student File Management System
+- ✅ Exception Handling Calculator
 
-## Upcoming
+## ⏳ Upcoming
 
-- ⏳ Exception Handling
-- ⏳ Modules & Packages
-- ⏳ Object-Oriented Programming (OOP)
-- ⏳ NumPy
-- ⏳ Pandas
-- ⏳ Matplotlib
-- ⏳ Seaborn
-- ⏳ Scikit-Learn
-- ⏳ TensorFlow / Keras
+- Modules & Packages
+- Object-Oriented Programming (OOP)
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- TensorFlow / Keras
 
 ---
 
@@ -242,37 +275,40 @@ A beginner-friendly console application developed using Python File Handling.
 ```text
 python-learning-phase/
 
-README.md
-
-python_basics.py
-lists.py
-tuples.py
-sets.py
-dictionaries.py
-functions.py
-file_handling.py
-
-shopping_cart.py
-student_marks_management.py
-unique_student_ids.py
-student_record_management.py
-library_management_system.py
-student_file_management.py
+│── README.md
+│
+├── python_basics.py
+├── lists.py
+├── tuples.py
+├── sets.py
+├── dictionaries.py
+├── functions.py
+├── file_handling.py
+├── exception_handling.py
+│
+├── shopping_cart.py
+├── student_marks_management.py
+├── unique_student_ids.py
+├── student_record_management.py
+├── library_management_system.py
+├── student_file_management.py
+└── exception_handling_calculator.py
 ```
 
 ---
 
 # 🎯 Repository Goal
 
-This repository documents my Python learning journey from beginner concepts to advanced topics required for Machine Learning, Deep Learning, Data Science, and Software Development.
+This repository documents my Python learning journey from beginner to advanced concepts through practical coding exercises and mini-projects.
 
 Each topic includes:
 
-- Theory and explanations
-- Hands-on coding practice
-- Mini projects
-- Clean and well-commented code
-- GitHub-ready implementations
+- 📖 Theory and explanations
+- 💻 Hands-on coding practice
+- 🚀 Mini projects
+- 📝 Clean, well-commented code
+- ✅ GitHub-ready implementations
+- 🧩 Real-world programming examples
 
 ---
 
@@ -280,12 +316,14 @@ Each topic includes:
 
 After mastering Python fundamentals, this repository will continue with:
 
+- Object-Oriented Programming (OOP)
 - NumPy
 - Pandas
 - Data Visualization
 - Machine Learning
 - Deep Learning
 - Computer Vision
+- Natural Language Processing (NLP)
 - Kaggle Projects
 - Diabetic Retinopathy Detection Project
 
@@ -294,3 +332,7 @@ After mastering Python fundamentals, this repository will continue with:
 # 👨‍💻 Author
 
 **Danyal**
+
+---
+
+⭐ If you find this repository helpful, consider giving it a **Star** on GitHub!
