@@ -20,7 +20,7 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Functions
 - ✅ File Handling
 - ✅ Exception Handling
-
+- ✅  Modules & Packages
 ---
 
 # 🚀 Projects
@@ -258,8 +258,6 @@ A console-based calculator that demonstrates Python's exception handling feature
 - ✅ Exception Handling Calculator
 
 ## ⏳ Upcoming
-
-- Modules & Packages
 - Object-Oriented Programming (OOP)
 - NumPy
 - Pandas
