@@ -1,10 +1,12 @@
 # Python Learning Phase
 
-A beginner-to-advanced Python learning repository designed to build a strong foundation for **Machine Learning**, **Deep Learning**, **Data Science**, **Artificial Intelligence**, and **Software Development**.
+A structured Python fundamentals learning repository focused on building a strong programming foundation for Machine Learning, Deep Learning, Data Science, and Artificial Intelligence.
+
+This repository documents my learning journey through theory, hands-on practice, and concept-based mini projects.
 
 ---
 
-# 📚 Topics Covered
+#  Topics Covered
 
 - ✅ Python Basics
 - ✅ Variables & Data Types
@@ -20,14 +22,16 @@ A beginner-to-advanced Python learning repository designed to build a strong fou
 - ✅ Functions
 - ✅ File Handling
 - ✅ Exception Handling
-- ✅  Modules & Packages
+- ✅ Modules & Packages
+- ✅ Object-Oriented Programming (OOP)
+
 ---
 
-# 🚀 Projects
+# Projects
 
-## 🛒 Shopping Cart Management System
+##  Shopping Cart Management System
 
-A beginner-friendly console application developed using Python Lists.
+A console-based application developed to practice Python Lists.
 
 ### Features
 
@@ -39,51 +43,49 @@ A beginner-friendly console application developed using Python Lists.
 
 ### Concepts Used
 
-- Python Lists
+- Lists
 - append()
 - remove()
 - len()
-- while loop
-- for loop
-- input()
-- if / elif / else
+- Loops
+- Conditional Statements
+- User Input
 
 ---
 
-## 🎓 Student Marks Management System
+##  Student Marks Management System
 
-A beginner-friendly console application developed using Python Lists.
+A console-based application for managing student marks using Python Lists.
 
 ### Features
 
 - Add Student Marks
 - View Marks
-- Highest Marks
-- Lowest Marks
-- Average Marks
-- Total Students
+- Find Highest Marks
+- Find Lowest Marks
+- Calculate Average Marks
+- Count Total Students
 - Remove Marks
 - Exit Program
 
 ### Concepts Used
 
-- Python Lists
+- Lists
 - append()
 - remove()
 - len()
 - sum()
 - max()
 - min()
-- while loop
-- for loop
+- Loops
 - Type Casting
-- if / elif / else
+- Conditional Statements
 
 ---
 
-## 🆔 Unique Student ID Management System
+##  Unique Student ID Management System
 
-A beginner-friendly console application developed using Python Sets.
+A console-based application developed using Python Sets.
 
 ### Features
 
@@ -95,21 +97,19 @@ A beginner-friendly console application developed using Python Sets.
 
 ### Concepts Used
 
-- Python Sets
+- Sets
 - add()
 - remove()
 - len()
-- in operator
-- while loop
-- for loop
-- input()
-- if / elif / else
+- Membership Operators
+- Loops
+- Conditional Statements
 
 ---
 
-## 👨‍🎓 Student Record Management System
+##  Student Record Management System
 
-A beginner-friendly console application developed using Python Dictionaries.
+A CRUD-based student record application developed using Python Dictionaries.
 
 ### Features
 
@@ -123,23 +123,18 @@ A beginner-friendly console application developed using Python Dictionaries.
 
 ### Concepts Used
 
-- Python Dictionaries
+- Dictionaries
 - Lists of Dictionaries
 - CRUD Operations
-- append()
-- remove()
-- len()
-- break
-- while loop
-- for loop
-- if / elif / else
+- Loops
+- Conditional Statements
 - Dictionary Methods
 
 ---
 
-## 📚 Library Management System
+##  Library Management System
 
-A beginner-friendly console application developed using Python Functions and Dictionaries.
+A console-based Library Management System developed using Python Functions and Dictionaries.
 
 ### Features
 
@@ -152,23 +147,19 @@ A beginner-friendly console application developed using Python Functions and Dic
 
 ### Concepts Used
 
-- Python Functions
-- Python Dictionaries
+- Functions
+- Dictionaries
 - Lists of Dictionaries
 - CRUD Operations
-- while loop
-- for loop
-- append()
-- remove()
-- break
-- User Input
 - Function Calling
+- Loops
+- Conditional Statements
 
 ---
 
-## 📁 Student File Management System
+##  Student File Management System
 
-A beginner-friendly console application developed using Python File Handling.
+A student record management application developed to practice Python File Handling.
 
 ### Features
 
@@ -176,33 +167,30 @@ A beginner-friendly console application developed using Python File Handling.
 - View Student Records
 - Search Student by ID
 - Remove Student Record
-- Count Total Students
 - Exit Program
 
 ### Concepts Used
 
-- Python File Handling
+- File Handling
 - open()
 - with open()
 - Read Mode (`r`)
 - Write Mode (`w`)
 - Append Mode (`a`)
 - read()
-- readline()
 - readlines()
 - write()
-- File Paths
 - split()
 - strip()
-- Lists
+- File Paths
 - Loops
 - Conditional Statements
 
 ---
 
-## 🧮 Exception Handling Calculator
+##  Exception Handling Calculator
 
-A console-based calculator that demonstrates Python's exception handling features while performing arithmetic operations.
+A console-based calculator developed to practice Python Exception Handling.
 
 ### Features
 
@@ -210,9 +198,9 @@ A console-based calculator that demonstrates Python's exception handling feature
 - Subtraction
 - Multiplication
 - Division
-- Handles Invalid Input
-- Prevents Division by Zero
-- Custom Exception for Negative Numbers
+- Invalid Input Handling
+- Division by Zero Handling
+- Custom Exception Handling
 - Exit Program
 
 ### Concepts Used
@@ -224,113 +212,162 @@ A console-based calculator that demonstrates Python's exception handling feature
 - raise
 - ValueError
 - ZeroDivisionError
-- Custom Exceptions
-- while loop
+- Loops
 - Conditional Statements
-- User Input
 
 ---
 
-# 🎯 Learning Roadmap
+##  Modules & Packages Practice
 
-## ✅ Completed
+A collection of practical examples demonstrating Python built-in and user-defined modules.
 
-- ✅ Python Basics
-- ✅ Variables & Data Types
-- ✅ Operators
-- ✅ Type Casting
-- ✅ Input / Output
-- ✅ Conditional Statements
-- ✅ Loops
-- ✅ Lists
-- ✅ Tuples
-- ✅ Sets
-- ✅ Dictionaries
-- ✅ Functions
-- ✅ File Handling
-- ✅ Exception Handling
-- ✅ Shopping Cart Management System
-- ✅ Student Marks Management System
-- ✅ Unique Student ID Management System
-- ✅ Student Record Management System
-- ✅ Library Management System
-- ✅ Student File Management System
-- ✅ Exception Handling Calculator
+### Examples
 
-## ⏳ Upcoming
+- User-Defined Module
+- Square Root Calculator
+- Random Number Generator
+- Password Generator
+- Current Date and Time
+- Random Student Picker
+- Folder Creation and Deletion
+- File Existence Checker
+
+### Concepts Used
+
+- import
+- from ... import
+- Module Aliases
+- User-Defined Modules
+- math
+- random
+- string
+- datetime
+- os
+- pathlib
+
+---
+
+##  Library Management System Using OOP
+
+An Object-Oriented version of the Library Management System developed to apply core OOP concepts.
+
+The project converts a function-based program into a class-based design.
+
+### Features
+
+- Add Book
+- View Books
+- Search Book
+- Update Book Quantity
+- Remove Book
+- Exit Program
+
+### Concepts Used
+
+- Classes
+- Objects
+- Constructor (`__init__`)
+- self Keyword
+- Instance Attributes
+- Methods
+- Lists of Dictionaries
+- CRUD Operations
+- Loops
+- Conditional Statements
+
+---
+
+#  Object-Oriented Programming Concepts
+
+The OOP learning phase covers:
+
+- Classes and Objects
+- Constructor (`__init__`)
+- self Keyword
+- Attributes
+- Instance Methods
+- Class Properties
+- Inheritance
+- super()
+- Polymorphism
+- Encapsulation
+- Public Attributes
+- Protected Attributes
+- Private Attributes
+- Getter Methods
+- Method Overriding
+- Magic Method (`__str__`)
+- Class Variables
+- Instance Variables
+- Static Methods
+- Class Methods
+
+---
+
+#  Learning Progress
+
+##  Completed
+
+- Python Fundamentals
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Functions
+- File Handling
+- Exception Handling
+- Modules & Packages
 - Object-Oriented Programming (OOP)
+- Concept-Based Mini Projects
+
+##  Next Learning Phase
+
+The next phase of my learning journey focuses on Python for Data Science and Machine Learning:
+
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
+- Data Preprocessing
 - Scikit-Learn
+- Machine Learning
 - TensorFlow / Keras
+- Deep Learning
+- Computer Vision
 
----
+These topics will continue in a separate Machine Learning repository.
 
-# 📂 Repository Structure
 
-```text
+#  Repository Structure
+
 python-learning-phase/
 
 │── README.md
 │
-├── python_basics.py
-├── lists.py
-├── tuples.py
-├── sets.py
-├── dictionaries.py
-├── functions.py
-├── file_handling.py
-├── exception_handling.py
+├── 01_python_basics.py
 │
-├── shopping_cart.py
-├── student_marks_management.py
-├── unique_student_ids.py
-├── student_record_management.py
-├── library_management_system.py
-├── student_file_management.py
-└── exception_handling_calculator.py
-```
-
----
-
-# 🎯 Repository Goal
-
-This repository documents my Python learning journey from beginner to advanced concepts through practical coding exercises and mini-projects.
-
-Each topic includes:
-
-- 📖 Theory and explanations
-- 💻 Hands-on coding practice
-- 🚀 Mini projects
-- 📝 Clean, well-commented code
-- ✅ GitHub-ready implementations
-- 🧩 Real-world programming examples
-
----
-
-# 🚀 Future Goal
-
-After mastering Python fundamentals, this repository will continue with:
-
-- Object-Oriented Programming (OOP)
-- NumPy
-- Pandas
-- Data Visualization
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Kaggle Projects
-- Diabetic Retinopathy Detection Project
-
----
-
-# 👨‍💻 Author
-
-**Danyal**
-
----
-
-⭐ If you find this repository helpful, consider giving it a **Star** on GitHub!
+├── 02(a)_lists.py
+├── 02(b)_student_marks_management.py
+├── 03_shopping_cart.py
+│
+├── 04_tuples.py
+│
+├── 05_sets.py
+├── 06_unique_student_id_management.py
+│
+├── 07_dictionaries.py
+├── 08_student_record_management.py
+│
+├── 9_functions.py
+├── 10_library_management_system.py
+│
+├── 11file_handling.py
+├── 12_student_file_management.py
+│
+├── 13_exception_handling.py
+├── 14_exception_handling_calculator.py
+│
+├── 16(a)_modules_packages.py
+├── 16(b)mymodule.py
+│
+├── 17_oop.py
+└── 18_library_management_oop.py
