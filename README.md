@@ -5,7 +5,6 @@ A structured Python fundamentals learning repository focused on building a stron
 This repository documents my learning journey through theory, hands-on practice, and concept-based mini projects.
 
 ---
-
 #  Topics Covered
 
 - ✅ Python Basics
